@@ -1,0 +1,800 @@
+Sentiment is positive0.0
+0.0
+Sentiment is positive-1661.15254852
+-1663.83347512
+Sentiment is positive-1262.23691315
+-1282.3879376
+Sentiment is positive-1588.8955978
+-1591.73464861
+Sentiment is positive-1754.14794618
+-1774.53036071
+Sentiment is negative  -775.117202516
+-766.875117498
+Sentiment is positive-1510.27218426
+-1514.52220024
+Sentiment is positive-1093.08674202
+-1099.4976006
+Sentiment is positive-1847.29003885
+-1853.37808468
+Sentiment is positive-838.782023935
+-848.179953476
+Sentiment is positive-2110.67366532
+-2145.0853634
+Sentiment is positive-201.149421839
+-205.783223634
+Sentiment is negative  -1143.3022076
+-1143.29383563
+Sentiment is positive-608.891721571
+-612.745053722
+Sentiment is positive-1132.04309152
+-1136.10590598
+Sentiment is positive-1431.66746305
+-1452.72089713
+Sentiment is positive-1456.70456917
+-1476.72848663
+Sentiment is positive-2687.89501279
+-2702.85075142
+Sentiment is positive-1853.64847767
+-1871.67287693
+Sentiment is negative  -1319.57466693
+-1312.84178996
+Sentiment is positive-1088.40093673
+-1092.92219087
+Sentiment is positive-1805.11988836
+-1824.17498342
+Sentiment is positive-1380.51300023
+-1389.01741712
+Sentiment is positive-4651.22492453
+-4657.46445286
+Sentiment is positive-657.91424152
+-667.409823396
+Sentiment is positive-1045.64634388
+-1063.36063635
+Sentiment is positive-3199.22331901
+-3212.85917232
+Sentiment is positive-1114.47496249
+-1136.11459754
+Sentiment is positive-1947.84227913
+-1948.33429945
+Sentiment is negative  -1126.14900853
+-1123.07074532
+Sentiment is positive-1891.97106679
+-1901.83957842
+Sentiment is negative  -2191.63440783
+-2183.29487005
+Sentiment is positive-1971.24893296
+-2002.69028794
+Sentiment is positive-1650.38993153
+-1666.44172492
+Sentiment is positive-1618.19243301
+-1631.74546813
+Sentiment is negative  -789.755089872
+-788.58525834
+Sentiment is positive-1113.90202331
+-1124.6840179
+Sentiment is positive-1950.39786296
+-1953.43967132
+Sentiment is positive-2067.1885172
+-2095.8566918
+Sentiment is positive-2091.10055822
+-2120.08608993
+Sentiment is positive-1993.90090671
+-2000.267848
+Sentiment is positive-2465.92645876
+-2468.55617842
+Sentiment is positive-952.353373923
+-953.997696464
+Sentiment is positive-1438.44844646
+-1451.44250049
+Sentiment is positive-1912.18005656
+-1914.45014041
+Sentiment is positive-1452.00604071
+-1468.35301117
+Sentiment is positive-1789.45779851
+-1789.74160544
+Sentiment is negative  -2146.0347143
+-2129.5126556
+Sentiment is negative  -2925.70497545
+-2902.95080299
+Sentiment is positive-1455.51819756
+-1469.28096061
+Sentiment is positive-1000.5711487
+-1005.66474225
+Sentiment is positive-1676.83508387
+-1693.51781785
+Sentiment is positive-885.753281386
+-901.885798628
+Sentiment is positive-1725.609148
+-1741.33501776
+Sentiment is positive-2189.38943791
+-2204.38180615
+Sentiment is positive-1032.22964758
+-1043.87196766
+Sentiment is positive-2603.64727233
+-2657.5357701
+Sentiment is positive-1293.74976914
+-1309.70326064
+Sentiment is positive-1900.92499884
+-1905.70521436
+Sentiment is negative  -1184.45350006
+-1182.23476939
+Sentiment is positive-1073.27759891
+-1076.15735549
+Sentiment is positive-1839.82699354
+-1863.98369628
+Sentiment is negative  -1004.5155579
+-1003.78615555
+Sentiment is negative  -1367.99921566
+-1363.39782896
+Sentiment is positive-963.442182293
+-984.862431934
+Sentiment is positive-1171.54128973
+-1173.66295346
+Sentiment is positive-3023.23921618
+-3035.31751646
+Sentiment is positive-241.008281811
+-242.129319447
+Sentiment is positive-1444.66707108
+-1464.05770695
+Sentiment is negative  -994.369975629
+-988.363124623
+Sentiment is positive-1677.26325113
+-1705.01252361
+Sentiment is positive-637.815115137
+-639.07471069
+Sentiment is positive-1159.50569352
+-1174.28569818
+Sentiment is positive-2777.49352429
+-2788.54630371
+Sentiment is positive-442.875292804
+-446.892295578
+Sentiment is positive-2849.79475701
+-2869.74602849
+Sentiment is negative  -1700.83985509
+-1698.79885389
+Sentiment is positive-1679.75452724
+-1680.71180397
+Sentiment is positive-1416.808098
+-1423.51230193
+Sentiment is positive-606.768099085
+-609.868675636
+Sentiment is negative  -1140.11828679
+-1136.00721149
+Sentiment is positive-1093.80080156
+-1100.57122225
+Sentiment is positive-1769.56774431
+-1790.77275419
+Sentiment is positive-1436.78635697
+-1437.14846315
+Sentiment is positive-1502.92318058
+-1503.79122086
+Sentiment is negative  -910.719151861
+-905.720499136
+Sentiment is positive-2610.75834054
+-2629.60970057
+Sentiment is positive-4854.76259743
+-4905.43922706
+Sentiment is positive-809.609471198
+-823.054138141
+Sentiment is positive-1613.91372072
+-1624.00571044
+Sentiment is positive-657.958873357
+-660.000747001
+Sentiment is negative  -2115.69892093
+-2102.30271458
+Sentiment is negative  -1685.07270646
+-1675.77442654
+Sentiment is positive-1447.60469105
+-1456.96221682
+Sentiment is negative  -2532.91057548
+-2529.08700532
+Sentiment is positive-1737.75915889
+-1761.20923312
+Sentiment is positive-2167.7495877
+-2197.37307675
+Sentiment is positive-1884.19250492
+-1903.75685399
+Sentiment is positive-807.589686838
+-819.129017248
+Sentiment is positive-1378.05002432
+-1389.7563018
+Sentiment is positive-1448.53081464
+-1465.98968219
+Sentiment is positive-1795.36737597
+-1805.95342346
+Sentiment is positive-2469.8103572
+-2485.08179652
+Sentiment is negative  -1879.71739294
+-1862.26108267
+Sentiment is positive-1275.2386374
+-1287.97648401
+Sentiment is negative  -1343.88626391
+-1342.77810692
+Sentiment is negative  -1219.18682682
+-1218.8214912
+Sentiment is negative  -2333.78920198
+-2320.16035099
+Sentiment is positive-1646.92665908
+-1678.26900242
+Sentiment is positive-2967.82692295
+-2996.76737005
+Sentiment is positive-1075.56911035
+-1082.10081268
+Sentiment is positive-1202.29579471
+-1205.84103438
+Sentiment is positive-1130.51141695
+-1169.81508339
+Sentiment is positive-901.338908445
+-904.978857458
+Sentiment is positive-932.203442285
+-945.348772159
+Sentiment is positive-587.022668093
+-593.776996512
+Sentiment is negative  -2844.68672885
+-2831.63994575
+Sentiment is negative  -394.757813851
+-392.086401201
+Sentiment is positive-1645.89985022
+-1659.14585165
+Sentiment is positive-609.585184048
+-610.126797117
+Sentiment is negative  -1525.1418971
+-1510.14575028
+Sentiment is positive-1416.5771194
+-1420.0722834
+Sentiment is positive-1723.63589656
+-1741.3810557
+Sentiment is positive-1507.06250999
+-1518.22363453
+Sentiment is positive-2360.75907783
+-2372.30942066
+Sentiment is positive-1097.86051648
+-1108.74062167
+Sentiment is positive-1603.17215576
+-1624.92077222
+Sentiment is positive-1201.54349863
+-1217.75945707
+Sentiment is positive-2599.46879646
+-2643.00023139
+Sentiment is positive-1891.2466423
+-1902.69523218
+Sentiment is positive-1285.32087412
+-1288.75328448
+Sentiment is positive-1650.69094409
+-1669.41510639
+Sentiment is positive-1546.76189483
+-1551.81555471
+Sentiment is positive-1097.04993784
+-1098.35467835
+Sentiment is positive-1094.90231819
+-1095.55413349
+Sentiment is positive-686.035373225
+-695.19456769
+Sentiment is positive-1703.59888645
+-1721.76452922
+Sentiment is positive-1679.88351436
+-1680.77327381
+Sentiment is positive-2086.22357626
+-2111.61872378
+Sentiment is positive-709.748677743
+-716.644277582
+Sentiment is positive-932.861570218
+-936.400730829
+Sentiment is negative  -1014.92095491
+-1012.08716762
+Sentiment is positive-1081.55003966
+-1082.04572769
+Sentiment is positive-2813.09169392
+-2817.58251275
+Sentiment is positive-2251.82673304
+-2269.81727714
+Sentiment is positive-767.204975683
+-781.09293694
+Sentiment is positive-946.022961919
+-962.279960551
+Sentiment is positive-1108.10847802
+-1142.86759203
+Sentiment is positive-696.093502146
+-698.253260954
+Sentiment is positive-1589.19279068
+-1593.72275872
+Sentiment is negative  -629.863905207
+-628.448283565
+Sentiment is positive-1158.56834832
+-1161.85622728
+Sentiment is positive-1847.12557299
+-1891.86511981
+Sentiment is negative  -699.448740991
+-696.111301709
+Sentiment is negative  -1675.81940105
+-1675.79627872
+Sentiment is positive-1987.79324476
+-2018.96420385
+Sentiment is positive-1271.74684412
+-1273.7704789
+Sentiment is positive-1164.0392766
+-1180.26632861
+Sentiment is positive-1983.33716605
+-2004.1247823
+Sentiment is positive-1838.23829151
+-1849.15624392
+Sentiment is positive-2682.00656679
+-2716.16306672
+Sentiment is negative  -2769.60804846
+-2759.01665513
+Sentiment is positive-1294.00780611
+-1298.65678034
+Sentiment is positive-2804.3133852
+-2843.10512429
+Sentiment is negative  -135.978703314
+-133.524150052
+Sentiment is positive-1092.72811764
+-1104.2154421
+Sentiment is positive-1495.49598479
+-1517.89529778
+Sentiment is negative  -1126.8431928
+-1126.81039607
+Sentiment is positive-1234.61090535
+-1244.88549058
+Sentiment is positive-1572.43315102
+-1588.35582528
+Sentiment is positive-994.874523736
+-1013.80408046
+Sentiment is negative  -2113.40204863
+-2110.8092941
+Sentiment is positive-1926.00270359
+-1932.89227312
+Sentiment is positive-1308.03833939
+-1319.96652514
+Sentiment is positive-292.598305365
+-296.3724401
+Sentiment is negative  -2209.64846781
+-2200.51147808
+Sentiment is positive-481.122717641
+-483.944476556
+Sentiment is negative  -2266.47088595
+-2264.48862357
+Sentiment is negative  -748.625327551
+-742.293977251
+Sentiment is negative  -896.771527622
+-892.58142221
+Sentiment is positive-1462.50165574
+-1484.32744638
+Sentiment is positive-1796.74491964
+-1808.75251573
+Sentiment is positive-510.480908835
+-515.469796578
+Sentiment is positive-2493.94193638
+-2502.37300042
+Sentiment is negative  -1135.88732702
+-1127.34414533
+Sentiment is positive-1140.27617953
+-1154.48644456
+Sentiment is positive-1535.34229747
+-1552.86931942
+Sentiment is positive-3325.22010354
+-3356.60193152
+Sentiment is positive-304.897818306
+-310.336032454
+Sentiment is positive-647.765695546
+-660.403322448
+Sentiment is positive-656.297945459
+-658.095032116
+Sentiment is positive-1780.31568328
+-1786.02110514
+Sentiment is negative  -1591.87588498
+-1588.56290475
+Sentiment is positive-1060.6565334
+-1063.68416528
+Sentiment is positive-1740.69301762
+-1748.27113197
+Sentiment is positive-1641.38908397
+-1646.94261602
+Sentiment is positive-1923.00893858
+-1957.40923155
+Sentiment is positive-2355.70545089
+-2397.34905749
+Sentiment is negative  -123.952430151
+-123.72716053
+Sentiment is positive-1575.6013244
+-1602.09596915
+Sentiment is positive-2421.03966021
+-2435.88265362
+Sentiment is negative  -1466.10427022
+-1444.44491319
+Sentiment is negative  -1427.82084813
+-1406.21708185
+Sentiment is negative  -1359.10002355
+-1348.65725768
+Sentiment is negative  -1053.95531659
+-1050.00587378
+Sentiment is negative  -1246.47412534
+-1229.00967814
+Sentiment is negative  -1085.15623938
+-1069.46768482
+Sentiment is negative  -770.540580341
+-765.165527043
+Sentiment is negative  -1790.94292059
+-1785.92415657
+Sentiment is negative  -609.395782709
+-605.483543184
+Sentiment is negative  -898.596031542
+-896.396658871
+Sentiment is negative  -1208.37010948
+-1195.87478258
+Sentiment is negative  -1049.2862503
+-1048.85929682
+Sentiment is positive-1182.94993484
+-1183.8218763
+Sentiment is negative  -919.874836543
+-908.645090747
+Sentiment is positive-1031.87003957
+-1049.32323119
+Sentiment is negative  -512.33348854
+-506.887902884
+Sentiment is positive-1614.85360158
+-1707.4968719
+Sentiment is negative  -985.576239415
+-975.401296399
+Sentiment is negative  -2698.10904293
+-2692.94220523
+Sentiment is negative  -698.609159815
+-689.070380822
+Sentiment is positive-1015.54712278
+-1019.27597096
+Sentiment is positive-682.254020537
+-686.832853349
+Sentiment is negative  -912.09916245
+-900.669728227
+Sentiment is negative  -1733.91036797
+-1703.76756459
+Sentiment is negative  -1801.70248177
+-1789.67320417
+Sentiment is negative  -1299.92291568
+-1279.74707569
+Sentiment is negative  -409.663311905
+-407.033020322
+Sentiment is positive-1321.15732876
+-1327.88094835
+Sentiment is negative  -679.891002594
+-678.927891964
+Sentiment is positive-1540.85423876
+-1541.12502637
+Sentiment is negative  -2918.86852075
+-2892.30034264
+Sentiment is negative  -105.628638534
+-104.904017269
+Sentiment is negative  -1094.52153484
+-1087.06359363
+Sentiment is negative  -1127.77280813
+-1120.95947498
+Sentiment is positive-1541.30081332
+-1541.94592318
+Sentiment is positive-463.764525236
+-464.983034795
+Sentiment is positive-820.923180096
+-832.523866453
+Sentiment is negative  -1637.5064884
+-1624.66179101
+Sentiment is negative  -1444.22011459
+-1443.32446107
+Sentiment is negative  -1658.85230614
+-1651.18189446
+Sentiment is negative  -1121.6493012
+-1102.50157372
+Sentiment is negative  -337.833430822
+-336.223169388
+Sentiment is negative  -1741.64315483
+-1736.17400291
+Sentiment is negative  -1311.48042405
+-1301.74652095
+Sentiment is positive-1517.15511909
+-1522.11137
+Sentiment is negative  -1259.82614932
+-1259.7002642
+Sentiment is negative  -1007.58397645
+-988.212565763
+Sentiment is negative  -1287.95684052
+-1277.26376904
+Sentiment is negative  -647.896150661
+-644.569420404
+Sentiment is negative  -855.464708653
+-854.216464017
+Sentiment is negative  -1196.68961718
+-1196.52118284
+Sentiment is negative  -1241.05130053
+-1228.52072405
+Sentiment is negative  -1115.99058771
+-1100.94694573
+Sentiment is negative  -2422.20323171
+-2406.06513997
+Sentiment is negative  -1281.3946981
+-1275.03056614
+Sentiment is negative  -999.423223188
+-992.117470777
+Sentiment is negative  -1447.78019991
+-1427.33091068
+Sentiment is negative  -911.621989848
+-908.57881053
+Sentiment is positive-777.616126445
+-778.716346366
+Sentiment is negative  -1097.70696361
+-1093.81735495
+Sentiment is negative  -1064.36120532
+-1044.42520569
+Sentiment is negative  -1138.96467454
+-1131.33728011
+Sentiment is positive-1224.9298611
+-1237.59883626
+Sentiment is negative  -1731.7236086
+-1714.95104986
+Sentiment is negative  -1682.10539414
+-1662.87553847
+Sentiment is positive-545.912507814
+-548.433012571
+Sentiment is negative  -1455.26260208
+-1439.65772268
+Sentiment is negative  -938.227975423
+-929.910601312
+Sentiment is positive-454.19773025
+-460.383432649
+Sentiment is positive-1637.00003947
+-1640.89332965
+Sentiment is negative  -1362.15211393
+-1347.73447979
+Sentiment is positive-949.569747086
+-950.5506126
+Sentiment is negative  -2312.47508803
+-2291.6867724
+Sentiment is negative  -1251.05827803
+-1245.2612088
+Sentiment is positive-1531.00416489
+-1542.50142011
+Sentiment is negative  -1723.52838356
+-1722.82482078
+Sentiment is negative  -1561.55986307
+-1557.68945838
+Sentiment is negative  -1073.12792351
+-1065.67984556
+Sentiment is negative  -2108.33482289
+-2076.40950151
+Sentiment is negative  -1893.99500651
+-1861.24545763
+Sentiment is negative  -1341.56215349
+-1331.73217673
+Sentiment is negative  -1276.02010904
+-1266.52016728
+Sentiment is positive-1464.9584307
+-1465.5625957
+Sentiment is negative  -378.419278107
+-376.975817794
+Sentiment is negative  -1401.70306848
+-1363.65965193
+Sentiment is negative  -918.139476736
+-904.010807056
+Sentiment is positive-2154.70564521
+-2165.28592501
+Sentiment is positive-1267.32237593
+-1274.69946246
+Sentiment is negative  -1863.8158225
+-1849.89404429
+Sentiment is negative  -1747.52840885
+-1719.59723718
+Sentiment is negative  -1723.28964812
+-1717.76415886
+Sentiment is negative  -1301.69802985
+-1292.66729489
+Sentiment is positive-1417.11296799
+-1422.03604559
+Sentiment is positive-2041.09519527
+-2045.6188366
+Sentiment is negative  -878.457844693
+-875.720045248
+Sentiment is positive-912.516406172
+-922.230508686
+Sentiment is negative  -996.496317682
+-983.439357092
+Sentiment is negative  -1515.02509507
+-1499.49185283
+Sentiment is negative  -1952.63566001
+-1920.22811822
+Sentiment is negative  -1431.21716741
+-1419.6438214
+Sentiment is negative  -669.114701708
+-652.48241019
+Sentiment is negative  -1232.58823718
+-1230.57987767
+Sentiment is negative  -1724.54829918
+-1692.19062798
+Sentiment is negative  -1659.58012
+-1655.48989128
+Sentiment is positive-1901.04732284
+-1926.05426601
+Sentiment is positive-955.138970806
+-960.025100486
+Sentiment is negative  -1824.2256772
+-1820.27207924
+Sentiment is negative  -2032.08152489
+-2031.19091798
+Sentiment is negative  -3126.77288799
+-3068.88055362
+Sentiment is negative  -641.247583356
+-635.931349376
+Sentiment is negative  -1403.06396739
+-1392.57052008
+Sentiment is negative  -1539.3682198
+-1535.50243994
+Sentiment is negative  -1113.49999654
+-1111.15505197
+Sentiment is negative  -1412.6466701
+-1386.12483223
+Sentiment is positive-950.508067879
+-956.060326422
+Sentiment is positive-781.982204538
+-788.596709208
+Sentiment is positive-1719.29734527
+-1725.2450192
+Sentiment is negative  -730.28902922
+-725.022689586
+Sentiment is negative  -1545.24911659
+-1538.80570802
+Sentiment is negative  -2072.67520767
+-2056.58094376
+Sentiment is negative  -605.829132995
+-598.547871159
+Sentiment is positive-1068.50406402
+-1070.05077361
+Sentiment is positive-744.885408107
+-753.114308366
+Sentiment is negative  -2014.62208102
+-1972.27619854
+Sentiment is negative  -626.091551676
+-619.252138971
+Sentiment is positive-1623.03604611
+-1630.80429385
+Sentiment is negative  -1044.42351377
+-1032.21801795
+Sentiment is negative  -1282.9729881
+-1276.76028704
+Sentiment is negative  -1002.94064394
+-993.268581699
+Sentiment is negative  -1266.43930646
+-1254.13953628
+Sentiment is positive-571.301800173
+-575.248182651
+Sentiment is negative  -1286.68403031
+-1284.47418837
+Sentiment is negative  -1540.87183185
+-1525.15498126
+Sentiment is negative  -927.914551355
+-915.948005185
+Sentiment is positive-1123.65282524
+-1131.23586678
+Sentiment is negative  -843.367942694
+-838.532535024
+Sentiment is negative  -1761.72659728
+-1738.42406928
+Sentiment is negative  -1354.59847405
+-1351.21551791
+Sentiment is positive-1448.05364311
+-1455.98894794
+Sentiment is positive-1297.78692972
+-1299.1570587
+Sentiment is negative  -1114.5328407
+-1103.19364237
+Sentiment is negative  -647.915396652
+-640.05831897
+Sentiment is negative  -2606.69653746
+-2577.29988624
+Sentiment is positive-1573.5981912
+-1582.33054893
+Sentiment is negative  -1136.03875068
+-1107.0120942
+Sentiment is negative  -647.107137451
+-644.608943973
+Sentiment is negative  -1662.95633822
+-1630.48871751
+Sentiment is negative  -1152.45958722
+-1138.85629017
+Sentiment is negative  -2009.5266788
+-1993.0171274
+Sentiment is negative  -1414.95225249
+-1407.16836349
+Sentiment is negative  -2634.76928622
+-2629.06103295
+Sentiment is positive-31.6692525158
+-32.683502047
+Sentiment is negative  -1677.33329689
+-1650.43827656
+Sentiment is negative  -930.580351698
+-921.1423182
+Sentiment is negative  -1026.48565128
+-1020.1359026
+Sentiment is negative  -830.361432074
+-830.274832124
+Sentiment is negative  -1127.47237109
+-1114.89126374
+Sentiment is negative  -385.711535452
+-383.496679656
+Sentiment is negative  -1621.17631554
+-1608.59018934
+Sentiment is positive-700.631566477
+-703.406917031
+Sentiment is negative  -2179.78096663
+-2179.50377107
+Sentiment is negative  -923.082407595
+-921.341177851
+Sentiment is negative  -1624.56996805
+-1622.85425444
+Sentiment is negative  -1704.47157592
+-1662.56973607
+Sentiment is negative  -1654.83315605
+-1645.12448259
+Sentiment is negative  -1917.4936971
+-1905.79577755
+Sentiment is negative  -1932.4446021
+-1928.1026373
+Sentiment is negative  -1909.88351312
+-1900.67078588
+Sentiment is negative  -1466.00033054
+-1454.95877619
+Sentiment is negative  -1636.84924422
+-1633.77321589
+Sentiment is negative  -2533.72933201
+-2499.7039307
+Sentiment is negative  -523.812306882
+-518.581632158
+Sentiment is positive-902.615926693
+-902.919976559
+Sentiment is negative  -1120.18470675
+-1113.87398455
+Sentiment is negative  -2370.68083305
+-2329.6449972
+Sentiment is negative  -528.878878238
+-523.599390428
+Sentiment is positive-1207.06755126
+-1208.71639465
+Sentiment is negative  -882.861333473
+-878.928542224
+Sentiment is negative  -1091.51788619
+-1078.58282777
+Sentiment is negative  -1278.04796998
+-1256.92318988
+Sentiment is negative  -920.376966299
+-918.47190412
+Sentiment is negative  -2205.2214592
+-2203.30618349
+Sentiment is positive-2515.8627312
+-2535.35785431
+Sentiment is positive-158.819832555
+-159.40765481
+Sentiment is negative  -1974.36392744
+-1962.82369083
+Sentiment is positive-705.64034521
+-711.074998557
+Sentiment is positive-1458.3511443
+-1474.98461903
+Sentiment is negative  -1697.53121114
+-1677.02400639
+Sentiment is positive-1585.53308495
+-1586.93411668
+Sentiment is negative  -685.816098967
+-685.468755043
+Sentiment is negative  -966.135878644
+-962.293887788
+Sentiment is positive-1085.01752905
+-1085.4195258
+Sentiment is positive-889.025107427
+-889.47614742
+Sentiment is negative  -2258.19810228
+-2235.1881674
+Sentiment is negative  -675.22953904
+-670.275747397
+Sentiment is negative  -1108.5036928
+-1097.00111684
+Sentiment is negative  -1287.44957832
+-1282.6068321
+Sentiment is negative  -1452.18644084
+-1436.51036759
+Sentiment is negative  -1511.4395182
+-1508.42916866
